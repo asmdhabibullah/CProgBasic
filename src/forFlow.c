@@ -7,7 +7,6 @@ int main(){
     // 2. Comparison condition: Same = [(True==Yes or False==No) (Yes==True or No==False)]
     // 3. Incriment/Dicrement condition
 
-
     int forInt, startingInt, conInt;
 
     printf("Enter an integer for For: ");
@@ -32,8 +31,7 @@ int main(){
             printf("Current integer is: %d \n", startingInt);
         };
 
-    }
-
+    };
 
     return 0;
 };
